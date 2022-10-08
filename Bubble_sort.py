@@ -9,4 +9,7 @@ def bubbleSort(arr):
     return lst
 
 
+a = [1, 11, 2, -1, 3, 55, 22, 33]
+b = bubbleSort(a)
+print("Output with a sorted list {}" .format(b))
 
